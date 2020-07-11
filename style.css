@@ -1,0 +1,48 @@
+body{
+    background-color: bisque;
+    text-align: center;
+}
+h1{
+    color: black;
+    display: inline-block;
+    background-color: cornsilk;
+    
+
+}
+.img{
+    position: relative;
+    text-align: center;
+    
+}
+#min{
+    position: absolute;
+    top: 45%;
+    left: 45%;
+    
+}
+#sec{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    
+}
+#msec{
+    position: absolute;
+    top: 45%;
+    left: 55%;
+    
+}
+button{
+    color: brown;
+    background-color: cornsilk;
+
+}
+img{
+    width: 500px;
+    height: 500px;
+}
+p{
+    color: black;
+    text-align: center;
+    background-color: white;
+}
